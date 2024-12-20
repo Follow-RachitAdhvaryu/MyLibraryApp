@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"A book for the kids below 8 years",
+        "price":0,
+        "category":"free",
+        "image":"26115.jpg"
+    },
+    {
+        "id":2,
+        "name":"Poem book",
+        "title":"A book for the kids below 8 years",
+        "price":0,
+        "category":"free",
+        "image":"26115.jpg"
+    },
+    {
+        "id":3,
+        "name":"Sports book",
+        "title":"A book for the kids below 8 years",
+        "price":10,
+        "category":"Sports",
+        "image":"26115.jpg"
+    },
+    {
+        "id":4,
+        "name":"Mime book",
+        "title":"A book for the kids below 8 years",
+        "price":0,
+        "category":"free",
+        "image":"26115.jpg"
+    },
+    {
+        "id":5,
+        "name":"Food book",
+        "title":"A book for the kids below 8 years",
+        "price":200,
+        "category":"Food",
+        "image":"26115.jpg"
+    },
+    {
+        "id":6,
+        "name":"Cartoons book",
+        "title":"A book for the kids below 8 years",
+        "price":0,
+        "category":"free",
+        "image":"26115.jpg"
+    },
+    {
+        "id":7,
+        "name":"ELGA book",
+        "title":"A book for the kids below 8 years",
+        "price":0,
+        "category":"free",
+        "image":"26115.jpg"
+    },
+    {
+        "id":8,
+        "name":"Music book",
+        "title":"A book for the kids below 8 years",
+        "price":30,
+        "category":"Music",
+        "image":"26115.jpg"
+    },
+    {
+        "id":9,
+        "name":"GK book",
+        "title":"A book for the kids below 8 years",
+        "price":0,
+        "category":"free",
+        "image":"26115.jpg"
+    },
+    {
+        "id":10,
+        "name":"Comedy book",
+        "title":"A book for the kids below 8 years",
+        "price":20,
+        "category":"Comedy",
+        "image":"26115.jpg"
+    }
+
+]
